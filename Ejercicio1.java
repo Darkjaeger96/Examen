@@ -1,3 +1,8 @@
+/*
+ * @Version: 1.0
+ * @Author: Jessus Villar Garcia
+ * 
+ */
 public class Ejercicio1 {
 	
 	public static void main (String[] args) {
